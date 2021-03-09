@@ -43,4 +43,8 @@ public class Deposito {
         }
     }
     
+    public void cambio(){
+        System.out.println("Cambio para la práctica");
+    }
+    
 }
